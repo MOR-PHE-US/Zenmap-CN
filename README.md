@@ -21,7 +21,7 @@ Zenmap 是 Nmap 的官方图形界面（GUI），用于网络扫描和安全审�
 
 ## 中文汉化步骤
 
-1. 打开 Nmap > zenmap > lib > python3.xx > site-packages > zenmapGUI
+1. 打开 Nmap > zenmap > lib > python3.xx > site-packages
 2. 将下载好的zip文件解压缩替换到目录 
 3. 关闭并重新打开 Zenmap，即可显示中文界面。
 
